@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@0x/contract-wrappers": "^13.23.8",
+    "@0x/utils": "^7.0.0",
+    "dotenv": "^16.4.5",
+    "erc-20-abi": "^1.0.1",
+    "node-fetch": "^3.3.2",
+    "web3": "1.10.0"
+  },
+  "scripts": {
+    "start": "node mainv2.js"
+  }
+}
